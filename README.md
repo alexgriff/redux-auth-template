@@ -1,8 +1,8 @@
 # Redux Auth Template
 
 This repo works with this backend here:
-**Make Sure you are on the `auth` branch of the backend**
 https://github.com/alexgriff/painting-example-app-backend/tree/auth
+**Make Sure you are on the `auth` branch of the backend**
 
 This code is not meant to be copied and pasted wholesale. It should serve as an example to follow. You should build out your auth flow sequentially, using this repo like a code-along / guide.
 
